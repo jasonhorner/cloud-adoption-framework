@@ -181,6 +181,7 @@ This page gives you abbreviation examples for many of the resources in Azure. Th
 | Resource | Resource provider namespace | Abbreviation |
 |--|--|--|
 | Automation account | `Microsoft.Automation/automationAccounts` | `aa` |
+| Automation automation runtime envrionment | `Microsoft.Automation` | `re` |
 | Azure Policy definition | `Microsoft.Authorization/policyDefinitions` | <*descriptive*> |
 | Application Insights | `Microsoft.Insights/components` | `appi` |
 | Azure Monitor action group | `Microsoft.Insights/actionGroups` | `ag` |
